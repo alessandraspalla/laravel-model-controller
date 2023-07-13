@@ -1,0 +1,1 @@
+<h1 class="text-center my-3 text-light">MOVIES</h1>
